@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Hasini  
 
-<!--
-**Hasini78/Hasini78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a **Computer Science Student** (VNR VJIET, Batch 2028)  
+💻 Passionate about **Blockchain Development** and **MERN Stack**  
+🤖 Currently learning about **Agentic AI** and exploring new technologies  
+✨ Enthusiastic about open-source and problem solving  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack  
+- **Languages:** C, C++, Python, JavaScript  
+- **Web Development:** HTML, CSS, React, Node.js, Express  
+- **Databases:** MySQL, MongoDB  
+- **Other Tools:** Git, GitHub, VS Code  
+
+---
+## 📫 Connect with Me  
+- LinkedIn: https://www.linkedin.com/in/hasiniboddapadu/  
+- Email: hasiniboddapadu78@gmail.com 
+
+✨ *Thanks for visiting my GitHub profile!*  
